@@ -1,4 +1,4 @@
-# mahasiswafe
+# VueJs Mahasiswa
 
 ## Project setup
 ```
